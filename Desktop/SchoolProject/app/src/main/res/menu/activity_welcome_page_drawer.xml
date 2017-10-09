@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/home"
+            android:icon="@drawable/fees"
+            android:title="HOME PAGE" />
+        <item
+            android:id="@+id/fees"
+            android:icon="@drawable/nav_fee"
+            android:title="FEES / PAYMENT" />
+        <item
+            android:id="@+id/calender"
+            android:icon="@drawable/nav_calender"
+            android:title="SCHOOL CALENDER" />
+        <item
+            android:id="@+id/notifications"
+            android:icon="@drawable/nav_notification"
+            android:title="NOTIFICATIONS" />
+        <item
+            android:id="@+id/academia"
+            android:icon="@drawable/nav_acade"
+            android:title="ACADEMIA" />
+
+        <item
+            android:id="@+id/about"
+            android:icon="@drawable/about"
+            android:title="ABOUT" />
+
+
+    </group>
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/sign_out"
+            android:icon="@drawable/sign"
+            android:title="SIGN OUT" />
+    </group>
+</menu>

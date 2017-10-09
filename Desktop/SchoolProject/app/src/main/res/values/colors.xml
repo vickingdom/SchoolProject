@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#091b83</color>
+    <color name="colorPrimaryDark">#091b83</color>
+    <color name="colorAccent">#091b83</color>
+    <color name="backgroundColor">#091b83</color>
+    <color name="loginPageTextColor">#fefefe</color>
+    <color name="textColor">#000000</color>
+    <color name="login">#ff5900</color>
+    <color name="cardView">#ff5900</color>
+</resources>
